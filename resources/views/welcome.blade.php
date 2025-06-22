@@ -7,7 +7,7 @@
 
 
     <div class="bg-gray-400 ">
-        <h1 class="text-center">Lists</h1>
+        <h1 class="text-center">All Data</h1>
     </div>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
